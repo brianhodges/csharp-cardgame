@@ -24,6 +24,10 @@ namespace csharp_cardgame
                 }
             }
 
+            if (Deck.Count != 52) {
+                throw new ArgumentOutOfRangeException();
+            }
+
             //Shuffle Deck of Cards
             var rnd = new Random();
             var ShuffledDeck = Deck.OrderBy(item => rnd.Next());
@@ -31,7 +35,7 @@ namespace csharp_cardgame
             //Display All Cards
             foreach (Card c in ShuffledDeck) { Console.WriteLine("{0} of {1}", c.Rank, c.Suit); }
             
-            Console.WriteLine("Deck Size: {0}", Deck.Count);
+            Console.WriteLine("{0}Deck Size: {1}", Environment.NewLine, Deck.Count);
             Console.ReadKey();
         }
     }
