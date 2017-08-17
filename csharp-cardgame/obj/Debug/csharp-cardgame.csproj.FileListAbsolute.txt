@@ -1,0 +1,6 @@
+c:\users\bhodges\documents\visual studio 2013\Projects\csharp-cardgame\csharp-cardgame\bin\Debug\csharp-cardgame.exe.config
+c:\users\bhodges\documents\visual studio 2013\Projects\csharp-cardgame\csharp-cardgame\bin\Debug\csharp-cardgame.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\csharp-cardgame\csharp-cardgame\bin\Debug\csharp-cardgame.pdb
+c:\users\bhodges\documents\visual studio 2013\Projects\csharp-cardgame\csharp-cardgame\obj\Debug\csharp-cardgame.csprojResolveAssemblyReference.cache
+c:\users\bhodges\documents\visual studio 2013\Projects\csharp-cardgame\csharp-cardgame\obj\Debug\csharp-cardgame.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\csharp-cardgame\csharp-cardgame\obj\Debug\csharp-cardgame.pdb
